@@ -1,0 +1,17 @@
+{
+    "name": "cradlephp/vanilla",
+    "description": "This is the vanilla version of Cradle; A basic unopinionated boilerplate",
+    "type": "framework",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "homepage": "https://cradlephp.github.io/",
+    "authors": [
+        {
+            "name": "Christian Blanquera",
+            "email": "cblanquera@openovate.com"
+        }
+    ],
+    "require": {
+        "cradlephp/framework": "~2.0.0"
+    }
+}
